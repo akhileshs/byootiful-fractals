@@ -7,6 +7,9 @@ Simple experiments with fractal drawing.
 ```clojure
 lein run
 ```
+
+![alt tag](http://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Mandelbrot_set_2500px.png/300px-Mandelbrot_set_2500px.png)
+
 does the trick. 
 
 ## License
